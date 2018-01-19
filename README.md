@@ -5,4 +5,4 @@ The Fifteen Puzzle (also called the Sliding Puzzle) is a simple classic game con
 
 ### Technologies: HTML, CSS, Javascript
 
-### Link: [https://shahriak.github.io/fifteen](Fifteen Puzzle)
+### Link: [Fifteen Puzzle](https://shahriak.github.io/fifteen)
